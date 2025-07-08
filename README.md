@@ -27,10 +27,13 @@ git clone https://github.com/masteribro/Zego-Video-Call.git
 cd Zego-Video-Call
 ```
 ### 2. Create a Constants File
-e.g class Constants {
+e.g 
+```bash
+class Constants {
   static const int appID = YOUR_APP_ID; // Replace with your App ID
   static const String appSign = 'YOUR_APP_SIGN'; // Replace with your App Sign
 }
+```
 ### 3. Install Dependencies
 ```bash
 flutter run
