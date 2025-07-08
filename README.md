@@ -25,8 +25,8 @@ This project demonstrates how to build a **1-on-1 video calling app using Flutte
 ```bash
 git clone https://github.com/masteribro/Zego-Video-Call.git
 cd Zego-Video-Call
-
-### 3. Create a Constants File
+```
+### 2. Create a Constants File
 e.g class Constants {
   static const int appID = YOUR_APP_ID; // Replace with your App ID
   static const String appSign = 'YOUR_APP_SIGN'; // Replace with your App Sign
@@ -34,5 +34,5 @@ e.g class Constants {
 ### 3. Install Dependencies
 ```bash
 flutter run
-
+```
 
